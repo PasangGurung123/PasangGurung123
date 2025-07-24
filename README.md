@@ -35,7 +35,6 @@ I'm a passionate **Software Engineer** with 3+ years of experience building scal
 
 Currently focused on:
 - 🌱 Mastering Data Structures & Algorithms
-- 📘 Preparing for GRE (Verbal & Quant)
 - 📱 Exploring React Native
 
 ---
